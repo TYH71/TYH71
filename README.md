@@ -1,4 +1,4 @@
-# print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 
 I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligenceand Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
 
