@@ -1,9 +1,7 @@
 # print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <head>
-  <script>
-    <script src="https://kit.fontawesome.com/abb9f74799.js" crossorigin="anonymous"></script>
-  </script>
+  <script src="https://kit.fontawesome.com/abb9f74799.js" crossorigin="anonymous"></script>
 </head> 
 
 I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligenceand Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming. You can find me on <i class="fab fa-instagram"></i>.
