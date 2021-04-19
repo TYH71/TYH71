@@ -1,10 +1,6 @@
 # print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<head>
-  <script src="https://kit.fontawesome.com/abb9f74799.js" crossorigin="anonymous"></script>
-</head> 
-
-I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligenceand Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming. You can find me on <i class="fab fa-instagram"></i>.
+I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligenceand Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming. You can find me on <img alt="Instagram" class="s4Iyt" src="/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" srcset="/static/images/web/mobile_nav_type_logo-2x.png/1b47f9d0e595.png 2x">
 
 - 📊 Aspiring Data Scientist
 - 🦾 Currently learning Machine Learning
