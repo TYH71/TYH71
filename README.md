@@ -9,5 +9,11 @@ I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Ap
 
 
 ## Statistics 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYH71&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYH71&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/TYH71/TYH71">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYH71&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/TYH71/TYH71">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYH71&show_icons=true&theme=cobalt" />
+</a>
+
