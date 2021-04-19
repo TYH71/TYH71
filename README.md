@@ -19,7 +19,7 @@ Get in Touch:
 
 - <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-linkedin.svg" width="32px"/> LinkedIn: https://www.linkedin.com/in/tan-yu-hoe-6728891ab/
 - <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-instagram.svg" width="32px"/> Instagram: https://www.instagram.com/tyh71/
-- <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-github.svg" width="32px"/> GitHub: https://www.github.com/TYH71/
+- <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-github.svg" align="center" width="32px"/> GitHub: https://www.github.com/TYH71/
 
 ---
 
