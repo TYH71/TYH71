@@ -15,7 +15,7 @@ I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Ap
 
 ---
 
-## Connect with Me:
+## Connect with me:
 
 - <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-linkedin.svg" width="32px"/> LinkedIn: https://www.linkedin.com/in/tan-yu-hoe-6728891ab/
 - <img src="https://assets.production.linktr.ee/8b7dbe35987a2ad2875a4ae7903ce0490df95d32/icons/tabler-icons/brand-instagram.svg" width="32px"/> Instagram: https://www.instagram.com/tyh71/
