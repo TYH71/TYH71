@@ -1,4 +1,4 @@
-# print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# print('Hello World') <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 - 📊 Aspiring Data Scientist
 - 🦾 Currently learning Machine Learning
