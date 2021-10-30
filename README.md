@@ -1,10 +1,11 @@
-# print('Hello World')&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><img src="https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif" width="32px">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yu Hoe</h1>
 
 I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
 
 - 📊 Aspiring Data Scientist
-- 🦾 Currently learning Machine Learning
+- 🦾 Currently learning **Neural Networks and advance Network Architectures**.
 - 🧑‍💻 Find out more about me <a href="https://linktr.ee/TYH71">here</a>!
 
 ---
@@ -23,12 +24,11 @@ I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Ap
 
 ---
 
-## &#x1f4c8; GitHub Stats 
+## 📊 My Github Stats
 
-<a href="https://github.com/TYH71/TYH71">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYH71&show_icons=True&theme=cobalt" />
-</a>
-<a href="https://github.com/TYH71/TYH71">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYH71&show_icons=true&theme=cobalt" />
-</a>
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tyh71&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyh71&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
+<a href="https://github.com/tyh71/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tyh71&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
