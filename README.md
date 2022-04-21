@@ -5,7 +5,7 @@
 I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
 
 - 📊 Aspiring Data Scientist
-- 🦾 Currently learning **Neural Networks and advance Network Architectures**.
+- 🦾 Currently learning **MLOps**.
 - 🧑‍💻 Find out more about me <a href="https://linktr.ee/TYH71">here</a>!
 
 ---
