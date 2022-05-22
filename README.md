@@ -32,11 +32,3 @@ I am Yu Hoe, a sophomore student at Singapore Polytechnic, currently studying Ap
   <br/>
 
 <a href="https://github.com/tyh71/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tyh71&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-## NFT Collection
-
-<nft-card
-contractAddress="0x1a20b565a68c00a7463f53948d938107b7c76958"
-tokenId="205">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
