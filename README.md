@@ -16,7 +16,7 @@ I am Yu Hoe, a senior year student at Singapore Polytechnic, currently studying 
 
 ## Connect with me:
 
-- LinkedIn: https://www.linkedin.com/in/tan-yu-hoe-6728891ab/
+- LinkedIn: https://www.linkedin.com/in/yu-hoe-tan/
 - Instagram: https://www.instagram.com/tyh71/
 - GitHub: https://www.github.com/TYH71/
 
