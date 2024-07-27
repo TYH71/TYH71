@@ -1,4 +1,4 @@
-I am Yu Hoe, a senior year student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
+I am Yu Hoe, an Applied AI & Analytics graduate from Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the fields of Data Science, Deep Learning, Cloud & DevOps.
 
 ## Connect with me:
 
